@@ -1,0 +1,2 @@
+class SnaFisyear < ApplicationRecord
+end

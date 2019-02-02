@@ -1,0 +1,2 @@
+class SnaCalyear < ApplicationRecord
+end
